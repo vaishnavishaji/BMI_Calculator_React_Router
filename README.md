@@ -231,7 +231,9 @@ button.reset:hover {
 
 ## OUTPUT
 
-![Screenshot 2025-05-27 190933](https://github.com/user-attachments/assets/48d56a2a-ffa9-4f14-971d-9d6b75297ff9)
+
+![CALCULATOR](https://github.com/user-attachments/assets/02b3db7e-949f-4ba5-abfe-fe3716ce3614)
+
 
 
 
